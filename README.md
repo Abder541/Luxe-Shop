@@ -5,7 +5,7 @@
 
 ---
 
-## 📑 Table des matières2
+## 📑 Table des matières
 
 1. [Présentation du projet](#-présentation-du-projet)
 2. [Stack technique](#-stack-technique)
